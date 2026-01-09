@@ -1,6 +1,6 @@
 # SFL Amazon Laptop Search
 
-**© 2026 sjd_datascapes | Simon James Drury**
+**© 2026 [sjd_datascapes] | Simon James Drury**
 
 ## Overview
 
@@ -43,7 +43,7 @@ This is a demonstration interface showing the SFL-based ranking concept. Full fu
 For commercial licensing inquiries:
 - **Email**: simondruryhotmail.com
 - **Developer**: Simon James Drury, Applied Linguist (MA TESOL, University of Birmingham)
-- **Company**: sjd_datascapes
+- **Company**: [sjd_datascapes]
 
 ### License Options
 
@@ -72,9 +72,9 @@ Based on M.A.K. Halliday's Systemic Functional Linguistics:
 
 ---
 
-## About sjd_datascapes
+## About [sjd_datascapes]
 
-**sjd_datascapes** specializes in applied linguistics and AI-driven language analysis systems.
+**[sjd_datascapes]** specializes in applied linguistics and AI-driven language analysis systems.
 
 - **Founder**: Simon James Drury
 - **Expertise**: Systemic Functional Linguistics, Multimodal Discourse Analysis, NLP
@@ -84,9 +84,9 @@ Based on M.A.K. Halliday's Systemic Functional Linguistics:
 
 ## Copyright & Legal
 
-**© 2026 sjd_datascapes. All rights reserved.**
+**© 2026 [sjd_datascapes]. All rights reserved.**
 
-This repository contains proprietary software developed by Simon James Drury (sjd_datascapes). The code, methodology, and SFL framework implementation are © copyright protected.
+This repository contains proprietary software developed by Simon James Drury ([sjd_datascapes]). The code, methodology, and SFL framework implementation are © copyright protected.
 
 ### Terms of Use
 
@@ -97,8 +97,8 @@ This repository contains proprietary software developed by Simon James Drury (sj
 
 ### MIT License (Demo Version Only)
 
-The demo interface (HTML/CSS/JS) is provided under MIT License for educational purposes. The underlying SFL methodology, ranking algorithms, and any production implementation remain proprietary and © copyright protected by sjd_datascapes.
+The demo interface (HTML/CSS/JS) is provided under MIT License for educational purposes. The underlying SFL methodology, ranking algorithms, and any production implementation remain proprietary and © copyright protected by [sjd_datascapes].
 
 ---
 
-**Contact**: simondruryhotmail.com | **© 2026 sjd_datascapes**
+**Contact**: simondruryhotmail.com | **© 2026 [sjd_datascapes]**
