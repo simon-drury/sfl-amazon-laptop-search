@@ -78,7 +78,7 @@ Based on M.A.K. Halliday's Systemic Functional Linguistics:
 
 - **Founder**: Simon James Drury
 - **Expertise**: Systemic Functional Linguistics, Multimodal Discourse Analysis, NLP
-- **Background**: MA TESOL (Distinction), University of Birmingham; CELTA; 20+ years language consulting
+- **Background**: MA TESOL (Distinction), University of Birmingham; University of Cambridge CELTA; 20+ years language consulting
 
 ---
 
